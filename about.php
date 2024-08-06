@@ -69,12 +69,7 @@ include("config.php");
 				<b height="50px" width="100px">GOOD HOME GOOD LIFE <b>
                     <br><br><br><br>
                     <b>This is to certify that the project titled Real-Estate Website Based on Web Development
-submitted by Shubham Paul University Roll No. 12021002029117,Sayan Pan University Roll No. 
-12021002029118,Saikat Samanta University Roll No. 12021002029053,Kingshuk Bishnu University Roll No. 
-12021002029061,Saikat Ghosh University Roll No. 12021002029055,Prerona Mitra University Roll No. 
-12021002029083, Mayank Kumar Sharma University Roll No. 12021002029138, Rohan Ghosh University Roll 
-No. 12021002029059, Debayan Das University Roll No 12021002029144, students of UNIVERSITY OF 
-ENGINEERING & MANAGEMENT, KOLKATA<b>
+submitted by <b>
             </center>
             </div>
         </div>
